@@ -11,11 +11,12 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Research"
-    url: /research/
-
   - title: "CV"
     url: /cv/
+    target: "_blank" # opens cv in new tab
+
+  - title: "Research"
+    url: /research/
 
   # - title: "Talks"
   #   url: /talks/    
