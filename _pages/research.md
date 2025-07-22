@@ -22,10 +22,26 @@ Charlesworth, T.E.S., **Doyle, M.**, & Banaji, M.R. (2025). Patterns of Implicit
 
 <!-- <h2 style="margin-top: 70px;">Conference presentations</h2> -->
 
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<!-- <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <div style="flex: 1; max-width: 60%; margin-left: 20px; margin-right: 65px;">
     <p style="font-size: 1.07em;">
       <em>Engagement-based algorithms disrupt social norm learning</em>: Poster presented at the New Directions in Research on the Psychology of Technology conference, Boston University, 2024
+    </p>
+  </div>
+  <div style="margin-left: 20px;">
+    <a href="/files/AlgoAmplification.pdf" target="_blank">
+      <img src="/images/AlgoAmplification.png" alt="Poster preview" style="max-width: 350px; border: 1px solid #ccc; border-radius: 10px;">
+    </a>
+  </div>
+</div> -->
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1; max-width: 60%; margin-left: 20px; margin-right: 65px;">
+    <p style="font-size: 1.07em; margin-bottom: 18px;">
+      <em>Engagement-based algorithms disrupt social norm learning</em>
+    </p>
+    <p style="font-size: 1.07em; margin-top: 0; margin-left: 30px; margin-right: 30px;">
+      Poster presented at the New Directions in Research on the Psychology of Technology conference, Boston University, 2024
     </p>
   </div>
   <div style="margin-left: 20px;">
@@ -37,8 +53,11 @@ Charlesworth, T.E.S., **Doyle, M.**, & Banaji, M.R. (2025). Patterns of Implicit
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; max-width: 60%; margin-left: 20px; margin-right: 65px;">
-    <p style="font-size: 1.07em;">
-      <em>Motivational influences on intuitive physical judgments</em>: Poster presented at the University of Chicago Honors Day Symposium, May 2023
+    <p style="font-size: 1.07em; margin-bottom: 18px;">
+      <em>Motivational influences on intuitive physical judgments</em>
+    </p>
+    <p style="font-size: 1.07em; margin-top: 0; margin-left: 30px; margin-right: 30px;">
+      Poster presented at the University of Chicago Honors Day Symposium, May 2023
     </p>
   </div>
   <div style="margin-left: 20px;">
