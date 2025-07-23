@@ -11,7 +11,7 @@ A small collection of essays I'm proud of, on questions I think about frequently
 ### Philosophy (free will, moral objectivity, punishment & retribution)
 *The Crucial Assumption of Angela Davis's Non-Ideal Moral Framework*. Undergraduate coursework in philosophy, Winter 2023. A comparison of Angela Davis’s abolitionist vision of restorative justice with Kant’s retributivist view of punishment as a moral necessity. [PDF](/files/aftermath_A2.pdf)
 
-<!-- *John Stuart Mill's "On Liberty": A Case for the Practicality of Utilitarianism in Democratic Republics*. Undergraduate coursework in philosophy, Winter 2023. An analysis of Mill’s On Liberty as a political extension of his utilitarian ethics, arguing that utility provides a principled limit to state coercion in democratic societies. [PDF](/files/aftermath_A1.pdf) -->
+*John Stuart Mill's "On Liberty": A Case for the Practicality of Utilitarianism in Democratic Republics*. Undergraduate coursework in philosophy, Winter 2023. An analysis of Mill’s On Liberty as a political extension of his utilitarian ethics, arguing that utility provides a principled limit to state coercion in democratic societies. [PDF](/files/aftermath_A1.pdf)
 
 *The (Very Real) "Illusion of Free Will"*. Undergraduate coursework in neuroscience, Winter 2022. An argument against the existence of free will as something independent from uncontrollable subconscious processes, drawing on contemporary neuroscience research. [PDF](/files/NoC_FW.pdf)
 
