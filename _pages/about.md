@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Meriel, an Empirical Research Fellow at Northwestern University's Kellogg School of Management, co-advised by William Brady ([Mind & Technology Lab](https://sites.google.com/u.northwestern.edu/mind-technology-lab)) and Tessa Charlesworth ([The Change Lab](https://sites.northwestern.edu/changelab/)).
+I'm Meriel, an Empirical Research Fellow at Northwestern University's Kellogg School of Management, co-advised by William Brady ([Mind & Technology Lab](https://sites.google.com/u.northwestern.edu/mind-technology-lab){:target="_blank"}) and Tessa Charlesworth ([The Change Lab](https://sites.northwestern.edu/changelab/){:target="_blank"}).
 
 
 
