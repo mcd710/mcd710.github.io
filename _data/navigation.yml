@@ -18,6 +18,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Writing"
+    url: /writing/
+
   # - title: "Talks"
   #   url: /talks/    
 
