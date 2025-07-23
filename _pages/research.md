@@ -15,7 +15,7 @@ Brady, W.J., **Doyle, M.**, Elnakouri, A., Finkel, E., Jackson, J.C., Kteily, N.
 ## Articles under review and in preparation
 Brady, W.J., Jackson, J.C., **Doyle, M.**, & Baier, S. (2025). Engagement-based algorithms disrupt human social norm learning. *Submitted for publication*. [Preprint](https://osf.io/preprints/osf/mgdwq_v1)
 
-Charlesworth, T.E.S., **Doyle, M.**, & Banaji, M.R. (2025). Patterns of Implicit and Explicit Attitudes V: Continuity and reversal of trends from 2020-2024. *In preparation*. 
+Charlesworth, T.E.S., **Doyle, M.**, Zola, A.R., & Banaji, M.R. (2025). Patterns of Implicit and Explicit Attitudes V: Continuity and reversal of trends from 2020-2024. *In preparation*. 
 
 ## Conference presentations
 <!-- *Engagement-based algorithms disrupt social norm learning*: Poster presented at the New Directions in Research on the Psychology of Technology conference, Boston University, 2024 -->
