@@ -21,5 +21,5 @@ A small collection of essays I'm proud of, on questions I think about frequently
 
 ### Etc. (policy)
 
-*How can we reduce political polarization without legislation?* Project proposal for a social policy-oriented think tank, Fall 2023. Proposes neuroscience education as a scalable, evidence-based strategy for reducing political polarization and partisan animosity. [PDF](/files/ethics_A2.pdf)
+*How can we reduce political polarization without legislation?* Project proposal for a social policy-oriented think tank, Fall 2023. Proposes neuroscience education as a scalable, evidence-based strategy for reducing political polarization and partisan animosity. [PDF](/files/XXX_project-pitch.pdf)
 
