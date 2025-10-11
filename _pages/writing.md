@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-A small collection of essays on questions I often return to... 
+A few coursework essays on questions I like to think about (when I'm not cleaning data)
 
 <!-- ### Philosophy (free will, moral objectivity, punishment & retribution) -->
 *The Crucial Assumption of Angela Davis's Non-Ideal Moral Framework*. Undergraduate coursework in philosophy, Winter 2023. A comparison of Angela Davis's abolitionist vision of restorative justice with Kant's retributivist view of punishment as a moral necessity. [PDF](/files/aftermath_A2.pdf){:target="_blank"} <!-- opens in new tab  -->
