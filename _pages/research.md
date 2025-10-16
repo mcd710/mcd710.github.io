@@ -17,6 +17,8 @@ Brady, W.J., Jackson, J.C., **Doyle, M.**, & Baier, S. (2025). Engagement-based 
 
 Charlesworth, T.E.S., **Doyle, M.**, & Banaji, M.R. (2025). Patterns of Implicit and Explicit Attitudes V: Continuity and reversal of trends from 2020-2024. *In preparation*. 
 
+Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (2025). Shared visual sampling guides intuitive physical judgments in humans and convolutional neural networks. *In preparation*. 
+
 
 ## Senior thesis
 *Motivational Influences on Intuitive Physical Judgments*. (May 2023) [PDF](/files/Doyle_Honors_Paper.pdf){:target="_blank"}
