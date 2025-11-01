@@ -40,13 +40,13 @@ Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (20
   </div>
 </div> -->
 
+**Doyle, M.**, Charlesworth, T.E.S., & Banaji, M.R. Backlash in the U.S.: Explanations for the reversal of sexuality biases from 2021-2024. Society for Personality and Social Psychology. (Upcoming – Chicago, IL, February 2026).
+
+
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <div style="flex: 1; max-width: 60%; margin-left: 20px; margin-right: 65px;">
-    <p style="font-size: 1.07em; margin-bottom: 18px;">
-      <em>Engagement-based algorithms disrupt social norm learning</em>
-    </p>
-    <p style="font-size: 1.07em; margin-top: 0; margin-left: 30px; margin-right: 30px;">
-      Poster presented at the New Directions in Research on the Psychology of Technology conference, Boston University, 2024
+  <div style="flex: 1; max-width: 60%; margin-left: 0px; margin-right: 40px;">
+    <p style="margin-bottom: 18px;">
+      <strong>Doyle, M.</strong>, Baier, S., Jackson, J.C., & Brady, W.J. Engagement-based algorithms disrupt social norm learning. New Directions in Research on the Psychology of Technology. (Boston, MA, October 2024).
     </p>
   </div>
   <div style="margin-left: 20px;">
@@ -57,12 +57,9 @@ Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (20
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; max-width: 60%; margin-left: 20px; margin-right: 65px;">
-    <p style="font-size: 1.07em; margin-bottom: 18px;">
-      <em>Motivational influences on intuitive physical judgments</em>
-    </p>
-    <p style="font-size: 1.07em; margin-top: 0; margin-left: 30px; margin-right: 30px;">
-      Poster presented at the University of Chicago Honors Day Symposium, May 2023
+  <div style="flex: 1; max-width: 60%; margin-left: 0px; margin-right: 40px;">
+    <p style="margin-bottom: 18px;">
+      <strong>Doyle, M.</strong>, Calabro, R., & Leong, Y.C. Motivational influences on intuitive physical judgments. University of Chicago Honors Day Symposium. (Chicago, IL, May 2023).
     </p>
   </div>
   <div style="margin-left: 20px;">
