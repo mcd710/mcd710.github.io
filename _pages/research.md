@@ -18,10 +18,6 @@ Charlesworth, T.E.S., **Doyle, M.**, & Banaji, M.R. (2025). Patterns of Implicit
 Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (2025). Shared visual sampling guides intuitive physical judgments in humans and convolutional neural networks. *In preparation*. 
 
 
-## Senior thesis
-*Motivational Influences on Intuitive Physical Judgments*. (May 2023) [PDF](/files/Doyle_Honors_Paper.pdf){:target="_blank"}
-
-
 ## Conference presentations
 <!-- *Engagement-based algorithms disrupt social norm learning*: Poster presented at the New Directions in Research on the Psychology of Technology conference, Boston University, 2024 -->
 
@@ -42,8 +38,7 @@ Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (20
 
 **Doyle, M.**, Charlesworth, T.E.S., & Banaji, M.R. Backlash in the U.S.: Explanations for the reversal of sexuality biases from 2021-2024. Society for Personality and Social Psychology. (Upcoming – Chicago, IL, February 2026).
 
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
+<div style="display: flex; align-items: center; margin-top: 40px; margin-bottom: 40px;">
   <div style="flex: 1; max-width: 60%; margin-left: 0px; margin-right: 40px;">
     <p style="margin-bottom: 18px;">
       <strong>Doyle, M.</strong>, Baier, S., Jackson, J.C., & Brady, W.J. Engagement-based algorithms disrupt social norm learning. New Directions in Research on the Psychology of Technology. (Boston, MA, October 2024).
@@ -68,3 +63,6 @@ Calabro, R., **Doyle, M.**, Bhattacharyya, K., Bainbridge, W., & Leong, Y.C. (20
     </a>
   </div>
 </div>
+
+## Senior thesis
+*Motivational Influences on Intuitive Physical Judgments*. (May 2023) [PDF](/files/Doyle_Honors_Paper.pdf){:target="_blank"}
