@@ -21,6 +21,9 @@ main:
   - title: "Writing"
     url: /writing/
 
+  - title: "other things"
+    url: /other-things/
+
   # - title: "Talks"
   #   url: /talks/    
 
