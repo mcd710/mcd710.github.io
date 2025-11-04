@@ -235,14 +235,23 @@ You can try it out <a href="https://meditationflower.onrender.com/" target="_bla
         }
       }, 2000);
       
-      // Also try to play on user interaction (click anywhere on page)
-      document.addEventListener('click', function() {
+      // Try to play on user interaction (click, scroll, keypress, etc.)
+      // This handles browsers that block autoplay until user interaction
+      var tryPlayOnInteraction = function() {
         if (video2.paused && video2.readyState >= 2) {
-          video2.play().catch(function(error) {
-            console.log('Video2 play after user click failed:', error);
+          video2.play().then(function() {
+            console.log('Video2 started playing after user interaction');
+          }).catch(function(error) {
+            console.log('Video2 play after user interaction failed:', error);
           });
         }
-      }, { once: true });
+      };
+      
+      // Listen for various user interactions
+      document.addEventListener('click', tryPlayOnInteraction, { once: true });
+      document.addEventListener('scroll', tryPlayOnInteraction, { once: true });
+      document.addEventListener('keydown', tryPlayOnInteraction, { once: true });
+      document.addEventListener('touchstart', tryPlayOnInteraction, { once: true });
     }
   });
 </script>
