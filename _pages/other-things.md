@@ -30,7 +30,7 @@ You can try it out <a href="https://meditationflower.onrender.com/" target="_bla
     </video>
   </div>
   <div style="flex: 0 0 auto; min-width: 0;">
-    <video id="video2" loop muted playsinline controls preload="auto" style="width: auto; height: auto; max-width: 600px; border: 1px solid #ccc; border-radius: 10px; display: block;">
+    <video id="video2" autoplay loop muted playsinline controls preload="auto" style="width: auto; height: auto; max-width: 600px; border: 1px solid #ccc; border-radius: 10px; display: block;">
       <source src="{{ base_path }}/files/meditation-flower.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -76,9 +76,7 @@ You can try it out <a href="https://meditationflower.onrender.com/" target="_bla
       console.log('Video2 source:', video2.querySelector('source')?.src);
       console.log('Video2 currentSrc:', video2.currentSrc);
       
-      // Force initial load
-      video2.load();
-      console.log('Called video2.load() initially');
+      // Don't force load() - let the browser handle it naturally with autoplay attribute
       
       video2.addEventListener('loadstart', function() {
         console.log('Video2 loadstart event fired');
@@ -90,8 +88,26 @@ You can try it out <a href="https://meditationflower.onrender.com/" target="_bla
         video2IsReloading = false;
         // Try to play once loaded
         video2.play().catch(function(error) {
-          console.log('Video2 autoplay blocked, will play on user interaction');
+          console.log('Video2 autoplay blocked after metadata, will try again');
         });
+      });
+      
+      video2.addEventListener('canplay', function() {
+        // Try to play when video can start playing
+        if (video2.paused) {
+          video2.play().catch(function(error) {
+            console.log('Video2 autoplay blocked after canplay:', error);
+          });
+        }
+      });
+      
+      video2.addEventListener('canplaythrough', function() {
+        // Try to play when video has buffered enough
+        if (video2.paused) {
+          video2.play().catch(function(error) {
+            console.log('Video2 autoplay blocked after canplaythrough:', error);
+          });
+        }
       });
       
       video2.addEventListener('play', function() {
@@ -200,13 +216,33 @@ You can try it out <a href="https://meditationflower.onrender.com/" target="_bla
         }
       }, 10000); // Check every 10 seconds
       
-      // Try to play initially after a short delay to let load() complete
+      // Try to play initially after delays to let load() complete
       setTimeout(function() {
-        console.log('Video2 initial play attempt - readyState:', video2.readyState, 'networkState:', video2.networkState);
-        video2.play().catch(function(error) {
-          console.log('Video2 initial play blocked:', error);
-        });
+        console.log('Video2 initial play attempt (500ms) - readyState:', video2.readyState, 'networkState:', video2.networkState);
+        if (video2.paused) {
+          video2.play().catch(function(error) {
+            console.log('Video2 initial play blocked (500ms):', error);
+          });
+        }
       }, 500);
+      
+      setTimeout(function() {
+        console.log('Video2 play attempt (2s) - readyState:', video2.readyState, 'networkState:', video2.networkState);
+        if (video2.paused && video2.readyState >= 2) {
+          video2.play().catch(function(error) {
+            console.log('Video2 play blocked (2s):', error);
+          });
+        }
+      }, 2000);
+      
+      // Also try to play on user interaction (click anywhere on page)
+      document.addEventListener('click', function() {
+        if (video2.paused && video2.readyState >= 2) {
+          video2.play().catch(function(error) {
+            console.log('Video2 play after user click failed:', error);
+          });
+        }
+      }, { once: true });
     }
   });
 </script>
